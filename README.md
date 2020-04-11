@@ -1,5 +1,7 @@
 # frsky_dash
 
+![Example setup](./example.jpg)
+
 A DIY Frsky telemetry dashboard with Text-To-Speech functionality. Using a RPi to decode the signals sent by the Frsky XJT module and calling out the battery voltage, RSSI level, ... using pico2wave TTS.
 
 ## Getting the TTS working
